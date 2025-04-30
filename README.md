@@ -46,3 +46,5 @@ Este projeto foi desenvolvido como trabalho final para as disciplinas de **Siste
 5. Configure o aplicativo **Blynk** com os widgets adequados para ativar o dispenser remotamente.
 
 6. Alimente seu pet com estilo! 🐶🐱
+
+7. Atualizações estão por vir. 
