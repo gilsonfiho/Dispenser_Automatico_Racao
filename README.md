@@ -16,17 +16,6 @@ O **Dispenser Automático de Ração** é um projeto de automação residencial 
 
 Este projeto foi desenvolvido como trabalho final para as disciplinas de **Sistemas Embarcados** e **Técnicas Avançadas em Microcontroladores** no curso de Engenharia da Computação. Também foi apresentado em eventos como a **Semana da Engenharia** e a **ExpoIOT**.
 
-## 📁 Estrutura do Projeto
-
-```
-📦 Dispenser_Automatico_Racao
-├── Dispenser Pic/                            → Código para microcontrolador PIC
-├── DispenserBlynk/                           → Código para ESP12 com Blynk
-├── COMEDOURO AUTOMÁTICO PARA PETS.pdf        → Documentação geral do projeto
-├── Trabalho 3 Micros 2.pdf                   → Relatório técnico acadêmico
-├── LICENSE                                   → Licença do projeto (MIT)
-└── README.md                                 → Este arquivo
-```
 
 ## 🚀 Como Usar
 
