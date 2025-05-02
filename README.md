@@ -10,7 +10,7 @@ O **Dispenser Automático de Ração** é um projeto de automação residencial 
 - ✅ Motor com eixo rosqueado para liberar ração com precisão  
 - ✅ Alerta sonoro com buzzer passivo  
 - ✅ Estrutura impressa em 3D com capacidade para até 2 kg  
-- ✅ Códigos para PIC, Arduino e ESP12 disponíveis  
+- ✅ Códigos para PIC, Arduino e ESP12 disponíveis
 
 ## 🎓 Contexto Acadêmico
 
@@ -36,4 +36,4 @@ Este projeto foi desenvolvido como trabalho final para as disciplinas de **Siste
 
 6. Alimente seu pet com estilo! 🐶🐱
 
-7. Atualizações estão por vir. 
+7. Atualizações estão por vir com ESP32Cam e Novos Sensores.
